@@ -1,5 +1,4 @@
 # ICT
 Hotel Management System
-17MCA054
-17MCA058
-
+Developed By 17MCA054 Manu Sharma
+& 17MCA058 Karan Soni
